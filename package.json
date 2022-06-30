@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "File.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon  express/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash-sartape/nodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash-sartape/nodeJs/issues"
+  },
+  "homepage": "https://github.com/akash-sartape/nodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18"
+  }
+}
